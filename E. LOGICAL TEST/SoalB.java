@@ -12,7 +12,7 @@ public class SoalB {
   }
 
   public static void main(String[] args) {
-      int[] nums = {7, 1, 5, 3};
+      int[] nums = {7, 1, 5, 3, 2};
       int maxDifference = maximumDifference(nums);
       System.out.println(maxDifference);
   }
