@@ -8,7 +8,7 @@ import { RouterLink, RouterView } from 'vue-router'
       <div class="wrapper h-12 bg-blue-800">
         <nav class="w-1/5 mx-auto pt-3.5 flex justify-between text-white font-semibold">
           <RouterLink to="/">CSS Test</RouterLink>
-          <RouterLink to="/about">API Test</RouterLink>
+          <RouterLink to="/api">API Test</RouterLink>
         </nav>
       </div>
     </header>
