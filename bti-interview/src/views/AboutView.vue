@@ -43,7 +43,6 @@ function selectJob(value) {
 }
 
 function submitData() {
-  console.log(postDisplayName.value)
   //axios
   //  .post('https://bti.id/services/btiportalcorems/api/pt-job-applies/no-auth', {
   //    displayName: postDisplayName.value,
